@@ -1,0 +1,124 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 1760
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 39
+	Country: India ; Times: 1
+	Country: Russia ; Times: 2
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 6
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-08 ; Times: 11
+	Date: 2015-05-09 ; Times: 6
+	Date: 2015-05-11 ; Times: 5
+	Date: 2015-05-12 ; Times: 5
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 11
+	Date: 2015-05-17 ; Times: 9
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-26 ; Times: 4
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "secutor mnhn" ; Times: 1
+	Query: "pervagor aspricaudus" ; Times: 1
+	Query: "pseudocarcharias" ; Times: 2
+	Query: "chromis agilis" ; Times: 1
+	Query: "diardi mnhn" ; Times: 2
+	Query: "freycinet mnhn" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 2
+	Query: "samoensis mnhn" ; Times: 4
+	Query: "MNHN-1973-526" ; Times: 1
+	Query: "ZSM" ; Times: 1
+	Query: "scorpaenopsis diabolus" ; Times: 1
+	Query: "Tyrannus mnhn" ; Times: 2
+	Query: "MNHN 1973 526" ; Times: 1
+	Query: "mitsukurina" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "hirundo mnhn" ; Times: 2
+	Query: "frontalis mnhn" ; Times: 2
+	Query: "Barail" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "limbaughi" ; Times: 1
+	Query: "ocellata mnhn" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 1
+	Query: "occidentalis mnhn" ; Times: 1
+	Query: "1822 MNHN" ; Times: 2
+	Query: "gigantea mnhn" ; Times: 1
+	Query: "bocagei mnhn" ; Times: 3
+	Query: "canthigaster janthinoptera" ; Times: 1
+	Query: "Trichomycterus rivulatus" ; Times: 1
+	Query: "institutioncode:mnhn" ; Times: 7
+	Query: "analis mnhn" ; Times: 1
+	Query: "Schwebischi mnhn" ; Times: 1
+	Query: "Brazzae mnhn" ; Times: 2
+	Query: "Bonvaloti mnhn" ; Times: 4
+	Query: "674/1920" ; Times: 1
+	Query: "batis mnhn" ; Times: 1
+	Query: "Meleagris mnhn" ; Times: 2
+	Query: "alopias AND institutioncode:mnhn" ; Times: 1
+	Query: "plectroglyphidodon imparipennis" ; Times: 1
+	Query: "Parananochromis" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 2
+	Query: "leiognathus splendens mnhn" ; Times: 1
+	Query: "thalassoma trilobatum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 47 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 47
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-13 ; Times: 2
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "subocularis" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "Parananochromis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 103
+Total number of records retrieved from searches: 2376
+Number of download events that retrieved data from the resource: 18
+Total number of records downloaded: 302
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 119
+Total number of records retrieved from searches: 2573
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 321
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
