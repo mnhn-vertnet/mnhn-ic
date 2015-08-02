@@ -1,0 +1,225 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 1697
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Russia ; Times: 153
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 12
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 12
+	Date: 2015-07-07 ; Times: 21
+	Date: 2015-07-08 ; Times: 18
+	Date: 2015-07-09 ; Times: 23
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 17
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-18 ; Times: 6
+	Date: 2015-07-19 ; Times: 4
+	Date: 2015-07-20 ; Times: 6
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 12
+	Date: 2015-07-23 ; Times: 13
+	Date: 2015-07-24 ; Times: 9
+	Date: 2015-07-25 ; Times: 3
+	Date: 2015-07-27 ; Times: 4
+	Date: 2015-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sardinella oman" ; Times: 2
+	Query: "kyphosus oman" ; Times: 1
+	Query: "pteroidichthys amboinensis" ; Times: 1
+	Query: "chascanopsetta oman" ; Times: 2
+	Query: "cheilodipterus lineatus" ; Times: 1
+	Query: "aulopareia" ; Times: 1
+	Query: "trachinotus botla" ; Times: 1
+	Query: "pristis pectinata" ; Times: 4
+	Query: "plectorhinchus playfairi" ; Times: 2
+	Query: "antennablennius australis" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "lemairii" ; Times: 1
+	Query: "cynoglossus lachneri" ; Times: 1
+	Query: "istiblennius pox oman" ; Times: 1
+	Query: "gerres oman" ; Times: 2
+	Query: "istiblennius unicolor oman" ; Times: 1
+	Query: "elagatis oman" ; Times: 1
+	Query: "diodon liturosus" ; Times: 1
+	Query: "Rhinecanthus oman" ; Times: 1
+	Query: "strongylura pakistan" ; Times: 1
+	Query: "hemitaurichthys zoster" ; Times: 1
+	Query: "bathymyrus" ; Times: 1
+	Query: "carangoides praeustus" ; Times: 1
+	Query: "alepes oman" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 4
+	Query: "istiblennius oman" ; Times: 1
+	Query: "plectorhinchus gaterinus oman" ; Times: 1
+	Query: "tardoore" ; Times: 1
+	Query: "plectorhinchus schotaf oman" ; Times: 1
+	Query: "alepes vari" ; Times: 1
+	Query: "lipocheilus" ; Times: 1
+	Query: "apogon apogonides" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "mnhn oman" ; Times: 10
+	Query: "thryssa vitrirostris" ; Times: 1
+	Query: "chaetodon nigropunctatus" ; Times: 1
+	Query: "plectorhinchus schotaf" ; Times: 2
+	Query: "coris oman" ; Times: 2
+	Query: "antennablennius hypenetes" ; Times: 1
+	Query: "zsm type:specimen" ; Times: 3
+	Query: "pseudorhombus oman" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "Callionymus persicus" ; Times: 2
+	Query: "lophodiodon" ; Times: 1
+	Query: "alectis oman" ; Times: 1
+	Query: "petroscirtes ancylodon" ; Times: 1
+	Query: "scomberoides oman" ; Times: 1
+	Query: "Sufflamen oman" ; Times: 1
+	Query: "caesio oman" ; Times: 2
+	Query: "netuma oman" ; Times: 2
+	Query: "antennablennius bifilum" ; Times: 1
+	Query: "arnoglossus macrolophus" ; Times: 1
+	Query: "apogon gularis" ; Times: 3
+	Query: "zsm" ; Times: 1
+	Query: "thryssa setirostris" ; Times: 2
+	Query: "chilomycterus reticulatus" ; Times: 1
+	Query: "cynoglossus arel" ; Times: 1
+	Query: "amblyeleotris sungami" ; Times: 1
+	Query: "trachurus indicus" ; Times: 2
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "cheilinus oman" ; Times: 2
+	Query: "plicofollis oman" ; Times: 2
+	Query: "scartella emarginata" ; Times: 1
+	Query: "pentaprion longimanus" ; Times: 1
+	Query: "chanos chanos oman" ; Times: 1
+	Query: "capoeta" ; Times: 5
+	Query: "pomadasys olivaceus oman" ; Times: 1
+	Query: "pomadasys multimaculatus" ; Times: 2
+	Query: "naucrates oman" ; Times: 1
+	Query: "carangoides plagiotaenia" ; Times: 1
+	Query: "Regalecus" ; Times: 3
+	Query: "rom oman" ; Times: 1
+	Query: "canthidermis oman" ; Times: 1
+	Query: "arnoglossus aspilos" ; Times: 1
+	Query: "tylosurus oman" ; Times: 2
+	Query: "Scoloplax" ; Times: 1
+	Query: "cynoglossus acutirostris" ; Times: 2
+	Query: "cryptocentroides arabicus" ; Times: 1
+	Query: "coryphaena oman" ; Times: 1
+	Query: "caranx sexfasciatus oman" ; Times: 1
+	Query: "diagramma oman" ; Times: 1
+	Query: "encrasicholina heteroloba" ; Times: 1
+	Query: "ariomma indica" ; Times: 1
+	Query: "alectis ciliaris oman" ; Times: 1
+	Query: "pomadasys stridens oman" ; Times: 1
+	Query: "chirocentrus nudus oman" ; Times: 2
+	Query: "Encheliophis homei" ; Times: 2
+	Query: "ablennes oman" ; Times: 1
+	Query: "trachinotus oman" ; Times: 2
+	Query: "tehuacan" ; Times: 1
+	Query: "pellona ditchela" ; Times: 1
+	Query: "opistognathus oman" ; Times: 2
+	Query: "arius maculatus" ; Times: 1
+	Query: "Boleophthalmus dussumieri" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "carangoides chrysophrys oman" ; Times: 1
+	Query: "nectamia oman" ; Times: 3
+	Query: "carangoides fulvoguttatus" ; Times: 1
+	Query: "seriola oman" ; Times: 1
+	Query: "gymnocaesio" ; Times: 1
+	Query: "cheilodipterus arabicus" ; Times: 2
+	Query: "thryssa hamiltonii" ; Times: 1
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "sardinella melanura" ; Times: 1
+	Query: "cheilopogon abei" ; Times: 2
+	Query: "chirocentrus oman" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "caranx heberi oman" ; Times: 1
+	Query: "cheilodipterus lachneri oman" ; Times: 2
+	Query: "Hyporhamphus sindensis" ; Times: 1
+	Query: "bilineatum" ; Times: 2
+	Query: "Hemiramphus marginatus" ; Times: 1
+	Query: "Cirrhilabrus rubriventralis" ; Times: 1
+	Query: "cynoglossus dubius" ; Times: 1
+	Query: "carangoides bajad oman" ; Times: 1
+	Query: "selar oman" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "Parachaeturichthys polynema" ; Times: 1
+	Query: "bathygobius meggitti" ; Times: 1
+	Query: "paraclinus altivelis" ; Times: 1
+	Query: "lobulogobius omanensis" ; Times: 1
+	Query: "Scartelaos tenuis" ; Times: 1
+	Query: "Acalyptophis peronii" ; Times: 1
+	Query: "antennablennius adenensis" ; Times: 2
+	Query: "nematalosa oman" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1084 download events in this period)
+Total number of records downloaded: 5683 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5653
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-09 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Regalecus" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "cingulatum" ; Times: 1
+	Query: "regalecus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 335
+Total number of records retrieved from searches: 4917
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 8188
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 351
+Total number of records retrieved from searches: 5114
+Number of download events that retrieved data from the resource: 44
+Total number of records downloaded: 8207
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
