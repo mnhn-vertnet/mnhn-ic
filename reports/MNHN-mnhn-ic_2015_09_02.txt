@@ -1,0 +1,138 @@
+Report for Institution Code MNHN, Resource IC
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 327
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 15
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-03 ; Times: 1
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 4
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 8
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-26 ; Times: 4
+	Date: 2015-08-27 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "notorynchus cepedianus" ; Times: 1
+	Query: "synodus indicus" ; Times: 1
+	Query: "zacoalco" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(57.34233424395474,-15.29296875))<100000" ; Times: 1
+	Query: "distance(location,geopoint(22.87744046489713,-156.796875))<100000" ; Times: 1
+	Query: "rhinobatos thouin" ; Times: 2
+	Query: "mnhn 2986" ; Times: 2
+	Query: "Xenicus" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "poeciloptera" ; Times: 1
+	Query: "bpbm 18543" ; Times: 2
+	Query: "year:1821" ; Times: 1
+	Query: "Lavinia symmetricus symmetricus" ; Times: 1
+	Query: "pomadasys kaakan" ; Times: 1
+	Query: "congresox talabonoides" ; Times: 1
+	Query: "institutioncode:mnhn" ; Times: 1
+	Query: "pristigenys niphonia" ; Times: 1
+	Query: "Peckoltia braueri" ; Times: 1
+	Query: "torpedo mer rouge" ; Times: 1
+	Query: "Prionodon" ; Times: 1
+	Query: "torpedo sinuspersici" ; Times: 2
+	Query: "paragobiodon mnhn" ; Times: 2
+	Query: "germani mnhn" ; Times: 1
+	Query: "aplochiton" ; Times: 1
+	Query: "encrasicholina punctifer" ; Times: 1
+	Query: "zsm" ; Times: 1
+	Query: "chirocentrus nudus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1138 download events in this period)
+Total number of records downloaded: 10293 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6134
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 14
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-13 ; Times: 2
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-24 ; Times: 1
+	Date: 2015-08-25 ; Times: 1
+	Date: 2015-08-26 ; Times: 10
+	Date: 2015-08-27 ; Times: 8
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-30 ; Times: 1
+	Date: 2015-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "amazona" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "year:1862" ; Times: 2
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "year >= 1755 year <= 1770" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "distance(location,geopoint(32.379961464357315,-119.94873046875))<100000" ; Times: 1
+	Query: "Psychrolutes" ; Times: 1
+	Query: "year >= 1755 year <= 1796" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "year >= 1755 year <= 1792" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "year:1832" ; Times: 1
+	Query: "year:1833" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "year:1858" ; Times: 1
+	Query: "year:1859" ; Times: 6
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 327
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 10293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 327
+Number of download events that retrieved data from the resource: 34
+Total number of records downloaded: 10293
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
