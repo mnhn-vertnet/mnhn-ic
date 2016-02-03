@@ -1,0 +1,95 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 369
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 17
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-14 ; Times: 4
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "porotergus gymnotus" ; Times: 1
+	Query: "Stegastes leucorus" ; Times: 1
+	Query: "bourreti AND MNHN" ; Times: 1
+	Query: "synagrops philippinensis" ; Times: 1
+	Query: "Pomatotrygon" ; Times: 1
+	Query: "Micropoecilia" ; Times: 1
+	Query: "wetmorella mnhn" ; Times: 1
+	Query: "p358" ; Times: 1
+	Query: "Ictalurus melas stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "longicollis AND MNHN" ; Times: 1
+	Query: "umbrina AND MNHN" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "wetmorella mnhn 0756" ; Times: 1
+	Query: "MNHN A-8089" ; Times: 1
+	Query: "xenisthmus" ; Times: 1
+	Query: "wetmorella mnhn 1074" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "synagrops adeni" ; Times: 5
+	Query: "MNHN 1889" ; Times: 1
+	Query: "Remorina albescens" ; Times: 1
+	Query: "wetmorella mnhn 0741" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 823 download events in this period)
+Total number of records downloaded: 498
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dama.dama" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "Clinostomus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 1
+
+
+End of report.
