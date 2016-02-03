@@ -1,0 +1,93 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 404
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 8
+	Country: Portugal ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-07 ; Times: 6
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 4
+	Date: 2015-12-11 ; Times: 4
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-18 ; Times: 2
+	Date: 2015-12-19 ; Times: 3
+	Date: 2015-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minous egypte" ; Times: 1
+	Query: "Hydrocynus goliath" ; Times: 1
+	Query: "aetomylaeus milvus" ; Times: 3
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "Laemolyta orinocensis" ; Times: 1
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "marchei mnhn" ; Times: 1
+	Query: "diplobatis" ; Times: 1
+	Query: "Curimatella alburna" ; Times: 1
+	Query: "minous trachycephalus" ; Times: 1
+	Query: "discopyge" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "cynoglossus carpenteri" ; Times: 1
+	Query: "hemiramphus saltator" ; Times: 1
+	Query: "Twenke" ; Times: 1
+	Query: "Leporinus mormyrops" ; Times: 1
+	Query: "Afrique institutioncode:MNHN" ; Times: 1
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "tetronarce" ; Times: 1
+	Query: "Curimata roseni" ; Times: 1
+	Query: "heteronarce" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 2
+	Query: "Latimeria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 889 download events in this period)
+Total number of records downloaded: 1455
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Afrique institutioncode:MNHN" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
