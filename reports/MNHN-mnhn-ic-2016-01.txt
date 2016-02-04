@@ -1,0 +1,81 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Russia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cheilinus fasciatus mnhn" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "scolopsis vosmeri mnhn" ; Times: 1
+	Query: "T. thynnus" ; Times: 1
+	Query: "cynoglossus mnhn" ; Times: 1
+	Query: "de Joannis" ; Times: 2
+	Query: "mobula japanica" ; Times: 1
+	Query: "cichlid" ; Times: 1
+	Query: "Ilhabela" ; Times: 1
+	Query: "minous trachycephalus egypte" ; Times: 1
+	Query: "oseryi" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+	Query: "sargocentron suborbitale" ; Times: 1
+	Query: "alestopetersius caudalis" ; Times: 2
+	Query: "MRAC" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 507 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;False Bay&#34;" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+
+
+End of report.
