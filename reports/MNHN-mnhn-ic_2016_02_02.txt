@@ -1,0 +1,99 @@
+Report for Institution Code MNHN, Resource IC
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Russia ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cheilinus fasciatus mnhn" ; Times: 1
+	Query: "minous" ; Times: 2
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "scolopsis vosmeri mnhn" ; Times: 1
+	Query: "T. thynnus" ; Times: 1
+	Query: "cynoglossus mnhn" ; Times: 1
+	Query: "de Joannis" ; Times: 2
+	Query: "mobula japanica" ; Times: 1
+	Query: "minous trachycephalus egypte" ; Times: 1
+	Query: "Ilhabela" ; Times: 1
+	Query: "oseryi" ; Times: 1
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "sargocentron suborbitale" ; Times: 1
+	Query: "alestopetersius caudalis" ; Times: 2
+	Query: "cichlid" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 507 download events in this period)
+Total number of records downloaded: 195 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 195
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""False Bay"" ; Times: 1
+	Query: "mobula japanica" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 195
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 21
+Total number of records retrieved from searches: 226
+Number of download events that retrieved data from the resource: 6
+Total number of records downloaded: 195
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
