@@ -1,0 +1,51 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Russia ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;38485" ; Times: 1
+	Query: "rhabdamia cypselurus" ; Times: 1
+	Query: "centrophorus tessellatus" ; Times: 1
+	Query: "rhabdamia" ; Times: 2
+	Query: "gymnothorax johnsoni" ; Times: 3
+	Query: "gymnothorax punctatus" ; Times: 1
+	Query: "uropterygius polyspilus" ; Times: 2
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Bathydraco scotiae" ; Times: 5
+	Query: "rhabdamia cypselurus mnhn" ; Times: 1
+	Query: "Dacodraco hunteri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 230 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
