@@ -1,0 +1,150 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 466
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 30
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 3
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-18 ; Times: 13
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 7
+	Date: 2016-04-29 ; Times: 9
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-19 ; Times: 3
+	Date: 2016-04-05 ; Times: 7
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-16 ; Times: 6
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "uropterygius supraforatus" ; Times: 2
+	Query: "Miguel Island AND 1878" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "parapriacanthus marei" ; Times: 3
+	Query: "mustelus higmani" ; Times: 1
+	Query: "dasyatis americana" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 2
+	Query: "Anolis intermedius mappable:1" ; Times: 1
+	Query: "CM 1361" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(25.009036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "aseraggodes guttulatus" ; Times: 1
+	Query: "merluccius mnhn" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-105.367516))&lt;15000" ; Times: 5
+	Query: "hexanchus vitulus" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.637516))&lt;15000" ; Times: 1
+	Query: "C 0119" ; Times: 1
+	Query: "Miguel Island AND 1877" ; Times: 1
+	Query: "liza carinata" ; Times: 1
+	Query: "antennarius avalonis" ; Times: 1
+	Query: "Miguel Island AND 1884" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-105.537516))&lt;15000" ; Times: 3
+	Query: "Miguel Island AND 1883" ; Times: 1
+	Query: "carcharhinus isodon" ; Times: 1
+	Query: "Thanh Hoa" ; Times: 1
+	Query: "Bac Me" ; Times: 1
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Zalieutes" ; Times: 1
+	Query: "Muraena robusta" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(27.049036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Barbus salessei" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Cheilodactylus variegatus" ; Times: 2
+	Query: "(chalco)" ; Times: 1
+	Query: "arius dussumieri" ; Times: 11
+	Query: "Miguel Island AND 1864" ; Times: 1
+	Query: "Phu Tho" ; Times: 2
+	Query: "cypselurus comatus" ; Times: 3
+	Query: "Miguel Island AND 1882" ; Times: 1
+	Query: "merluccius mnhn 1966-0435" ; Times: 1
+	Query: "squalus blainvillei" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1312 download events in this period)
+Total number of records downloaded: 123
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 23
+	Country: United States ; Times: 2
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 7
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-22 ; Times: 14
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "toucan" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+
+
+End of report.
