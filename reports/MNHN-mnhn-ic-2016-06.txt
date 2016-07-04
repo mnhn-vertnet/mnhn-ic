@@ -1,0 +1,90 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 516
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 10
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-23 ; Times: 11
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 4
+	Date: 2016-06-05 ; Times: 1
+	Date: 2016-06-07 ; Times: 13
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "parapriacanthus marei" ; Times: 2
+	Query: "leptocharias smithii" ; Times: 3
+	Query: "novaculichthys macrolepidotus" ; Times: 1
+	Query: "Falcarius" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 2
+	Query: "MNHN 2010-1315" ; Times: 2
+	Query: "halichoeres zeylonicus" ; Times: 2
+	Query: "Paracatu" ; Times: 1
+	Query: "drepanis" ; Times: 1
+	Query: "wetmorella albofasciata" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "hippichthys cyanospilus" ; Times: 1
+	Query: "Stomatorhinus ivindoensis" ; Times: 1
+	Query: "polypterus bichir" ; Times: 14
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "wetmorella albofasciata mnhn" ; Times: 1
+	Query: "pseudocheilinus hexataenia madagascar" ; Times: 2
+	Query: "type:specimen (drepanis)" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1052 download events in this period)
+Total number of records downloaded: 537
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-07 ; Times: 5
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "leptocharias smithii" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "polypterus bichir" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
