@@ -1,0 +1,91 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 502
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 12
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Guyana ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 5
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-22 ; Times: 2
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ano Nuevo AND 1883" ; Times: 1
+	Query: "Rhinochimaera atlantica" ; Times: 1
+	Query: "ecsenius midas" ; Times: 1
+	Query: "Labrisomus xanti" ; Times: 1
+	Query: "Ano Nuevo AND 1884" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "bpbm rhabdamia" ; Times: 1
+	Query: "hippocampus jayakari" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Harttia" ; Times: 2
+	Query: "Lithoxus" ; Times: 1
+	Query: "Coregonus bezola" ; Times: 3
+	Query: "Crenidens" ; Times: 3
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "catalognumber:1994 institutioncode:MNHN" ; Times: 2
+	Query: "Anolis intermedius 1" ; Times: 1
+	Query: "Jullien" ; Times: 1
+	Query: "brune" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 924 download events in this period)
+Total number of records downloaded: 274
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-29 ; Times: 3
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-30 ; Times: 1
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Guanajuato" ; Times: 6
+	Query: "Ituglanis" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "lutra" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "valenciennea sexguttata" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "Jullien" ; Times: 1
+
+
+End of report.
