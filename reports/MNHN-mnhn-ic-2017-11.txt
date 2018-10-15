@@ -1,0 +1,225 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 243
+Number of records retrieved in searches: 2536
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 240
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 237
+
+List of queries that retrieved data from the resource: 
+	Query: "Upeneus indicus" ; Times: 3
+	Query: "Parupeneus posteli mappable:1" ; Times: 1
+	Query: "Mulloides vanicolensis" ; Times: 1
+	Query: "Upeneus vanicolensis mappable:1" ; Times: 1
+	Query: "Upeneus taeniopterus" ; Times: 1
+	Query: "Mullus lateristriga mappable:1" ; Times: 1
+	Query: "Upeneus crosnieri mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 3
+	Query: "Parupeneus diagonalis" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 1
+	Query: "Mulloides martinicus mappable:1" ; Times: 1
+	Query: "Upeneus sulphureus mappable:1" ; Times: 2
+	Query: "Upeneus vanuatu" ; Times: 1
+	Query: "Upeneus australiae" ; Times: 1
+	Query: "Parupeneus porphyreus" ; Times: 2
+	Query: "Upeneus niebuhri mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Mulloides pflugeri" ; Times: 1
+	Query: "Upeneus pori mappable:1" ; Times: 1
+	Query: "Upeneus indicus mappable:1" ; Times: 3
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Parupeneus signatus mappable:1" ; Times: 1
+	Query: "Parupeneus crassilabris" ; Times: 1
+	Query: "Parupeneus luteus mappable:1" ; Times: 1
+	Query: "Upeneus crassilabris mappable:1" ; Times: 2
+	Query: "Parupeneus porphyreus mappable:1" ; Times: 2
+	Query: "Mulloides pflugeri mappable:1" ; Times: 1
+	Query: "Parupeneus insularis mappable:1" ; Times: 1
+	Query: "Parupeneus luteus" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 2
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "Parupeneus indicus" ; Times: 1
+	Query: "Upeneus bilineatus" ; Times: 1
+	Query: "Mullus bifasciatus" ; Times: 1
+	Query: "Mullus rubescens mappable:1" ; Times: 1
+	Query: "Parupeneus bifasciatus mappable:1" ; Times: 3
+	Query: "Parupeneus sp. 1 mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus" ; Times: 3
+	Query: "Upeneus waigiensis" ; Times: 1
+	Query: "Upeneus mouthami" ; Times: 1
+	Query: "Mullus chryserydros" ; Times: 1
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "Upeneus prayensis mappable:1" ; Times: 1
+	Query: "Mullus lateristriga" ; Times: 1
+	Query: "Upeneus martinicus" ; Times: 1
+	Query: "Parupeneus insularis" ; Times: 1
+	Query: "Mullus barbatus barbatus mappable:1" ; Times: 1
+	Query: "Upeneus sp." ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 2
+	Query: "Mullus cyclostomus" ; Times: 1
+	Query: "Mulloides martinicus" ; Times: 1
+	Query: "Upeneus heemstra mappable:1" ; Times: 1
+	Query: "Parupeneus dispilurus" ; Times: 2
+	Query: "Upeneus heptacanthus" ; Times: 1
+	Query: "Upeneus itoui" ; Times: 1
+	Query: "Parupeneus signatus" ; Times: 1
+	Query: "Upeneus flavolineatus" ; Times: 1
+	Query: "Upeneus luteus mappable:1" ; Times: 1
+	Query: "Upeneus luteus" ; Times: 1
+	Query: "Upeneus itoui mappable:1" ; Times: 1
+	Query: "Upeneus guttatus" ; Times: 2
+	Query: "Parupeneus aurantius" ; Times: 1
+	Query: "Parupeneus crassilabris mappable:1" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "Mullus barbatus ponticus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinus mappable:1" ; Times: 3
+	Query: "Upeneus waigiensis mappable:1" ; Times: 1
+	Query: "Upeneus mascariensis mappable:1" ; Times: 1
+	Query: "Upeneus prayensis" ; Times: 1
+	Query: "Mullus barbatus mappable:1" ; Times: 1
+	Query: "Parupeneus trifasciatus" ; Times: 4
+	Query: "Sciaena heptacantha" ; Times: 1
+	Query: "Parupeneus diagonalis mappable:1" ; Times: 1
+	Query: "Upeneus australiae mappable:1" ; Times: 1
+	Query: "Parupeneus posteli" ; Times: 1
+	Query: "Upeneus guttatus mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Mullus cyclostomus mappable:1" ; Times: 1
+	Query: "Upeneus crosnieri" ; Times: 1
+	Query: "Parupeneus chrysonemus mappable:1" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Parupeneus heptacanthus mappable:1" ; Times: 3
+	Query: "Upeneus martinicus mappable:1" ; Times: 1
+	Query: "Upeneus sundaicus" ; Times: 1
+	Query: "Parupeneus trifasciatus mappable:1" ; Times: 4
+	Query: "Upeneichthys porosus mappable:1" ; Times: 2
+	Query: "Pseudupeneus grandisquamis" ; Times: 1
+	Query: "Parupeneus macronema" ; Times: 1
+	Query: "Parupeneus spilurus mappable:1" ; Times: 2
+	Query: "zmuc" ; Times: 1
+	Query: "Upeneus francisi" ; Times: 1
+	Query: "Upeneus vittatus mappable:1" ; Times: 2
+	Query: "Mullus bifasciatus mappable:1" ; Times: 1
+	Query: "Upeneus moluccensis mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Upeneus cyprinoides mappable:1" ; Times: 1
+	Query: "Upeneus francisi mappable:1" ; Times: 1
+	Query: "Upeneus davidaromi mappable:1" ; Times: 1
+	Query: "Upeneus niebuhri" ; Times: 1
+	Query: "Mulloides vanicolensis mappable:1" ; Times: 1
+	Query: "Parupeneus janseni" ; Times: 1
+	Query: "Upeneus crassilabris" ; Times: 2
+	Query: "Upeneus asymmetricus mappable:1" ; Times: 2
+	Query: "Parupeneus minys" ; Times: 1
+	Query: "Upeneus bilineatus mappable:1" ; Times: 1
+	Query: "Parupeneus dispilurus mappable:1" ; Times: 2
+	Query: "Parupeneus ciliatus" ; Times: 1
+	Query: "Mulloidichthys mimicus mappable:1" ; Times: 2
+	Query: "Upeneus taeniopterus mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Parupeneus margaritatus mappable:1" ; Times: 1
+	Query: "Mullus trifasciatus mappable:1" ; Times: 1
+	Query: "Upeneichthys lineatus mappable:1" ; Times: 2
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Mullus flavolineatus mappable:1" ; Times: 1
+	Query: "Mullus trifasciatus" ; Times: 1
+	Query: "Parupeneus macronema mappable:1" ; Times: 1
+	Query: "Parupeneus spilurus" ; Times: 2
+	Query: "Mullus flavolineatus" ; Times: 1
+	Query: "Mullus argentinae" ; Times: 1
+	Query: "Upeneus maculatus" ; Times: 1
+	Query: "Parupeneus sp. 1" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "Parupeneus sp. 2" ; Times: 1
+	Query: "Mulloides flavolineatus mappable:1" ; Times: 2
+	Query: "Parupeneus chryserydros" ; Times: 1
+	Query: "Parupeneus indicus mappable:1" ; Times: 1
+	Query: "Parupeneus barberinoides mappable:1" ; Times: 1
+	Query: "Upeneus tragula" ; Times: 4
+	Query: "Mullus rubescens" ; Times: 1
+	Query: "Pseudupeneus prayensis mappable:1" ; Times: 1
+	Query: "Upeneus vanicolensis" ; Times: 1
+	Query: "Upeneus vittatus" ; Times: 2
+	Query: "Parupeneus chrysonemus" ; Times: 1
+	Query: "Parupeneus heptacanthus" ; Times: 3
+	Query: "Sciaena ciliata" ; Times: 1
+	Query: "Parupeneus forsskali" ; Times: 1
+	Query: "Mullus fuscatus" ; Times: 1
+	Query: "Parupeneus chryserydros mappable:1" ; Times: 1
+	Query: "Parupeneus janseni mappable:1" ; Times: 1
+	Query: "Parupeneus margaritatus" ; Times: 1
+	Query: "Upeneus sulphureus" ; Times: 2
+	Query: "Upeneus maculatus mappable:1" ; Times: 1
+	Query: "Upeneus cyprinoides" ; Times: 1
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "Upeneus margarethae mappable:1" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Upeneus mascariensis" ; Times: 1
+	Query: "Upeneus davidaromi" ; Times: 1
+	Query: "Parupeneus aurantius mappable:1" ; Times: 1
+	Query: "Pseudupeneus prayensis" ; Times: 1
+	Query: "Parupeneus rubescens" ; Times: 2
+	Query: "Upeneus margarethae" ; Times: 1
+	Query: "Upeneus porosus" ; Times: 1
+	Query: "Mulloidichthys mimicus" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Upeneus sundaicus mappable:1" ; Times: 1
+	Query: "(marmorata 1992)" ; Times: 1
+	Query: "Upeneichthys lineatus" ; Times: 2
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "Upeneus stenopsis" ; Times: 1
+	Query: "Mullus barbatus ponticus" ; Times: 1
+	Query: "Mullus fuscatus mappable:1" ; Times: 1
+	Query: "Upeneus sp. mappable:1" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "Mullus multifasciatus mappable:1" ; Times: 1
+	Query: "Mullus argentinae mappable:1" ; Times: 1
+	Query: "Parupeneus forsskali mappable:1" ; Times: 1
+	Query: "Upeneus pori" ; Times: 1
+	Query: "Upeneus tragula mappable:1" ; Times: 4
+	Query: "Upeneichthys porosus" ; Times: 2
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "Upeneus stenopsis mappable:1" ; Times: 1
+	Query: "Mullus multifasciatus" ; Times: 1
+	Query: "Upeneus flavolineatus mappable:1" ; Times: 1
+	Query: "Upeneus vanuatu mappable:1" ; Times: 1
+	Query: "Upeneus porosus mappable:1" ; Times: 1
+	Query: "Parupeneus bifasciatus" ; Times: 3
+	Query: "Upeneus mouthami mappable:1" ; Times: 1
+	Query: "Parupeneus pleurostigma mappable:1" ; Times: 1
+	Query: "Upeneus heemstra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1101 download events in this period)
+Total number of records downloaded: 150
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bison" ; Times: 1
+	Query: "&#34;Schilbe mystus&#34;" ; Times: 1
+
+
+End of report.
