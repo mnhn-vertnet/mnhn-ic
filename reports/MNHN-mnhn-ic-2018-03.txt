@@ -1,0 +1,166 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 1565
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 8
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 71
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-28 ; Times: 7
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 5
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 12
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 8
+	Date: 2018-03-04 ; Times: 4
+	Date: 2018-03-05 ; Times: 6
+	Date: 2018-03-06 ; Times: 7
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-09 ; Times: 4
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 19
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-20 ; Times: 14
+	Date: 2018-03-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "serrasalmus marginatus" ; Times: 1
+	Query: "Holcomycteronus squamosus" ; Times: 3
+	Query: "dodo" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "Paramisgurnus dabryanus" ; Times: 1
+	Query: "NMW" ; Times: 2
+	Query: "ostracion meleagris" ; Times: 4
+	Query: "barbus peloponnesius" ; Times: 1
+	Query: "Sarotherodon melanotheron 1" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Barathronus multidens" ; Times: 1
+	Query: "Labeo cyclorhynchus" ; Times: 1
+	Query: "Monocirrhus polyacanthus" ; Times: 2
+	Query: "paramisgurnus dabryanus" ; Times: 7
+	Query: "institutioncode:MNHN" ; Times: 2
+	Query: "Lepidosiren paradoxa" ; Times: 6
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "MHNG holotype" ; Times: 1
+	Query: "labeo boga" ; Times: 1
+	Query: "Mystacina" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "Aptychotrema" ; Times: 1
+	Query: "Acanthonus armatus" ; Times: 3
+	Query: "Clarias batrachus 1" ; Times: 1
+	Query: "recordnumber:4638" ; Times: 1
+	Query: "Balantiocheilos melanopterus" ; Times: 1
+	Query: "institutioncode:MNHN hassex:1 hasmass:1" ; Times: 1
+	Query: "astyanax leopoldi" ; Times: 1
+	Query: "Salvelinus fontinalis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(16.259504076471288,-61.55296325683594))&lt;27208" ; Times: 2
+	Query: "1998-786 institutioncode:MNHN" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "Tometes" ; Times: 1
+	Query: "B 1482" ; Times: 1
+	Query: "Astronotus ocellatus 1" ; Times: 2
+	Query: "dianema longibarbis" ; Times: 1
+	Query: "placenta" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 2
+	Query: "porcus" ; Times: 2
+	Query: "Stereolepis" ; Times: 1
+	Query: "Gyrinocheilus aymonieri" ; Times: 2
+	Query: "recordedby:Legendre" ; Times: 2
+	Query: "(Strasbourg)" ; Times: 1
+	Query: "Labeo coubie" ; Times: 1
+	Query: "MNHN bat holotype" ; Times: 1
+	Query: "Monopterus albus 1" ; Times: 1
+	Query: "haemulon steindachneri" ; Times: 1
+	Query: "Cichlasoma urophthalmus 1" ; Times: 1
+	Query: "Cnesterodon decemmaculatus" ; Times: 1
+	Query: "vincenti" ; Times: 2
+	Query: "phalloceros caudimaculatus" ; Times: 1
+	Query: "cirrhinus cirrhosus" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 2
+	Query: "Hoplosternum littorale 1" ; Times: 1
+	Query: "latimeria" ; Times: 1
+	Query: "Tilapia mariae 1" ; Times: 1
+	Query: "Cichlasoma bimaculatum 1" ; Times: 1
+	Query: "pyrenees vntype:specimen institutioncode:MNHN" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 8
+	Query: "trygonorrhina" ; Times: 2
+	Query: "barbus meridionalis" ; Times: 1
+	Query: "Belonesox belizanus 1" ; Times: 1
+	Query: "pomadasys kaakan" ; Times: 1
+	Query: "Labeo chariensis" ; Times: 1
+	Query: "lates niloticus" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "pyrenees institutioncode:MNHN" ; Times: 2
+	Query: "Cichla ocellaris 1" ; Times: 1
+	Query: "labeo curchius" ; Times: 2
+	Query: "rhinobatos salalah" ; Times: 1
+	Query: "polli" ; Times: 1
+	Query: "distance(location,geopoint(-17.883,49.2285))&lt;20000" ; Times: 1
+	Query: "Gadomus dispar" ; Times: 2
+	Query: "Cichlasoma istlanum" ; Times: 2
+	Query: "ZMUC" ; Times: 1
+	Query: "Gasteropelecus levis" ; Times: 1
+	Query: "Oreochromis aureus 1" ; Times: 1
+	Query: "gasteropelecus sternicla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 441
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "israel" ; Times: 1
+	Query: "Stereolepis" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 2
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "Monocirrhus polyacanthus" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+
+
+End of report.
