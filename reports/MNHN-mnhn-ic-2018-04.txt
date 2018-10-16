@@ -1,0 +1,206 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1724
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 30
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 51
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 18
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 4
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 34
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 8
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-17 ; Times: 15
+	Date: 2018-04-19 ; Times: 10
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 18
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "millerigobius" ; Times: 1
+	Query: "Siniperca chuatsi" ; Times: 1
+	Query: "&#34;Carassius gibelio&#34;" ; Times: 1
+	Query: "zosterisessor" ; Times: 1
+	Query: "mormyrops caballus" ; Times: 4
+	Query: "chitala ornata" ; Times: 3
+	Query: "Gadus morhua mappable:1" ; Times: 1
+	Query: "mormyrops" ; Times: 1
+	Query: "chromogobius" ; Times: 1
+	Query: "rastrelliger faughni" ; Times: 1
+	Query: "pomatoschistus" ; Times: 1
+	Query: "pristobrycon" ; Times: 2
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 3
+	Query: "apleurogramma" ; Times: 2
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "crystallogobius" ; Times: 1
+	Query: "rubrolineatus" ; Times: 1
+	Query: "Lagocephalus sceleratus " ; Times: 4
+	Query: "Epinephelus chlorostigma" ; Times: 27
+	Query: "Tinca tinca" ; Times: 1
+	Query: "porcus" ; Times: 1
+	Query: "scorpaenodes steinitzi" ; Times: 1
+	Query: "Acantholabrus palloni mappable:1" ; Times: 1
+	Query: "padogobius" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Agrihan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Pagan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "mauligobius" ; Times: 1
+	Query: "MNHN-1870-316" ; Times: 1
+	Query: "thorogobius" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "Hyphessobrycon heterorhabdus" ; Times: 1
+	Query: "dussumieri seychelles" ; Times: 1
+	Query: "liza carinata" ; Times: 1
+	Query: "Hyphessobrycon copelandi" ; Times: 1
+	Query: "synodus randalli" ; Times: 3
+	Query: "Sarotherodon occidentalis" ; Times: 1
+	Query: "economidichthys" ; Times: 1
+	Query: "Pristobrycon striolatus" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 4
+	Query: "gammogobius" ; Times: 1
+	Query: "Prochilodus reticulatus" ; Times: 2
+	Query: "&#34;gobio gobio&#34;" ; Times: 1
+	Query: "Alosa fallax mappable:1" ; Times: 1
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "labeo horie" ; Times: 1
+	Query: "labeo curchius" ; Times: 4
+	Query: "mormyrops anguilloides" ; Times: 5
+	Query: "odondebuenia" ; Times: 1
+	Query: "Labeo kawrus" ; Times: 1
+	Query: "rastrelliger brachysoma" ; Times: 1
+	Query: "Labeo lukulae" ; Times: 1
+	Query: "mormyrops zanclirostris" ; Times: 4
+	Query: "MNHN 1998-786" ; Times: 2
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "&#34;Labeo macrostoma&#34;" ; Times: 1
+	Query: "knipowitschia" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Lates niloticus" ; Times: 4
+	Query: "Labeo lineatus" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 2
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "mg 066" ; Times: 1
+	Query: "Labeo roseopunctatus" ; Times: 1
+	Query: "clepsydra" ; Times: 1
+	Query: "porogobius" ; Times: 1
+	Query: "petrocephalus sullivani" ; Times: 2
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1359 download events in this period)
+Total number of records downloaded: 2282
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 8
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-19 ; Times: 6
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-24 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "Hemiancistrus" ; Times: 1
+	Query: "distance(location,geopoint(45.50894,-89.58637))&lt;50000" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Guam (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Pagan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 2
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "Sarotherodon occidentalis" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "opisthonema libertate" ; Times: 1
+	Query: "Saipan (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Lates niloticus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 2
+	Query: "Lagocephalus sceleratus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "Maug (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "Channa argus" ; Times: 1
+	Query: "distance(location,geopoint(45.49369,-89.58571))&lt;50000" ; Times: 2
+
+
+End of report.
