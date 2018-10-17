@@ -1,0 +1,171 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1461
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Romania ; Times: 1
+	Country: Portugal ; Times: 40
+	Country: Mexico ; Times: 5
+	Country: Russia ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 15
+	Country: Belgium ; Times: 17
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 5
+	Date: 2018-09-04 ; Times: 9
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-10 ; Times: 10
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-13 ; Times: 7
+	Date: 2018-09-12 ; Times: 6
+	Date: 2018-09-06 ; Times: 8
+	Date: 2018-09-21 ; Times: 21
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-23 ; Times: 2
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-20 ; Times: 18
+	Date: 2018-09-28 ; Times: 14
+	Date: 2018-09-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptostomias longibarba" ; Times: 1
+	Query: "Sarotherodon mvogoi" ; Times: 1
+	Query: "lamna nasus" ; Times: 6
+	Query: "Sarotherodon galilaeus" ; Times: 2
+	Query: "Lampanyctus ater" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 2
+	Query: "Woodsia meyerwaardeni" ; Times: 1
+	Query: "coryogalops anomolus" ; Times: 1
+	Query: "Isogomphodon oxyrhynchus" ; Times: 1
+	Query: "Sarotherodon tournieri" ; Times: 1
+	Query: "Tometes trilobatus" ; Times: 1
+	Query: "Ichthyococcus polli" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Oneirodes kreffti" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "institutioncode:mnhn" ; Times: 3
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "hypostomus pantherinus" ; Times: 1
+	Query: "003-95" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "&#34;Sarotherodon occidentalis&#34;" ; Times: 1
+	Query: "Conocara murrayi" ; Times: 1
+	Query: "Syngnathus abaster" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Holtbyrnia melanocephala" ; Times: 1
+	Query: "Sarotherodon nigripinnis" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "Melanostomias tentaculatus" ; Times: 1
+	Query: "Peckoltia simulata" ; Times: 1
+	Query: "photoblepharon steinitzi" ; Times: 1
+	Query: "sarotherodon galilaeus" ; Times: 3
+	Query: "Polyodon spathula" ; Times: 4
+	Query: "Constanta" ; Times: 1
+	Query: "Cyprinus pellegrini" ; Times: 1
+	Query: "institutioncode:mnhn Angkor" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "Chauliodus minimus" ; Times: 1
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "hypostomus corantijni" ; Times: 1
+	Query: "Astronesthes caulophorus" ; Times: 1
+	Query: "Hemichromis fasciatus" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "&#34;hypostomus asperatus&#34;" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "hypostomus bolivianus" ; Times: 1
+	Query: "Talismania homoptera" ; Times: 2
+	Query: "Muraena melanotis" ; Times: 1
+	Query: "Peckoltia capitulata" ; Times: 1
+	Query: "Phycis mediterraneus" ; Times: 1
+	Query: "hoplias aimara" ; Times: 1
+	Query: "catalognumber:5068 institutioncode:MNHN" ; Times: 1
+	Query: "Leptochilichthys pinguis" ; Times: 1
+	Query: "sarg" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "hippocampus abdominalis" ; Times: 1
+	Query: "Lepidotrigla dieuzeidei" ; Times: 1
+	Query: "oneirodes alius" ; Times: 2
+	Query: "depressiceps" ; Times: 1
+	Query: "Sarotherodon occidentalis" ; Times: 2
+	Query: "barathronus" ; Times: 1
+	Query: "trait" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "Tometes makue" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "Lampanyctus macdonaldi" ; Times: 1
+	Query: "Polymetme elongata" ; Times: 4
+	Query: "Conocara werneri" ; Times: 1
+	Query: "Sarotherodon steinbachi" ; Times: 1
+	Query: "ukpam" ; Times: 1
+	Query: "Astronesthes psychrolutes" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "Myrichthys pardalis" ; Times: 1
+	Query: "Mentodus rostratus" ; Times: 3
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "Idiacanthus atlanticus" ; Times: 1
+	Query: "reinhardti zmuc" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "coryogalops" ; Times: 1
+	Query: "hoplias teres" ; Times: 1
+	Query: "Macrourus berglax" ; Times: 1
+	Query: "MNHN 6194" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "&#34;Potamotrygon henlei&#34;" ; Times: 1
+	Query: "Potamotrygon yepezi" ; Times: 1
+	Query: "Photonectes phyllopogon" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "Adontosternarchus nebulosus" ; Times: 1
+	Query: "paraplagusia mnhn" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 846 download events in this period)
+Total number of records downloaded: 83
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "Potamotrygon marinae" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "Astronesthes martensii" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "Macropinna" ; Times: 1
+
+
+End of report.
