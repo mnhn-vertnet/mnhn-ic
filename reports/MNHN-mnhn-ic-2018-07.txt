@@ -1,0 +1,159 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 910
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Iran ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 5
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-23 ; Times: 2
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-26 ; Times: 7
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 10
+	Date: 2018-07-25 ; Times: 4
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-10 ; Times: 3
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-19 ; Times: 5
+	Date: 2018-07-18 ; Times: 4
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "diani" ; Times: 1
+	Query: "Catharacta chilensis mappable:1" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "serrasalmus eigenmanni" ; Times: 1
+	Query: "Anguilla marmorata" ; Times: 1
+	Query: "Spinus olivaceus mappable:1" ; Times: 1
+	Query: "hutsebaut" ; Times: 1
+	Query: "platydoras costatus" ; Times: 1
+	Query: "serrasalmus humeralis" ; Times: 1
+	Query: "Gadus morhua" ; Times: 1
+	Query: "1196 p" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "Oreochromis tanganicae" ; Times: 1
+	Query: "Oreochromis spilurus" ; Times: 1
+	Query: "Ancistrus dolichopterus." ; Times: 1
+	Query: "serrasalmus gibbus" ; Times: 1
+	Query: "serrasalmus gouldingi" ; Times: 1
+	Query: "Trigonectes" ; Times: 1
+	Query: "labeo sorex" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "clupeonella" ; Times: 1
+	Query: "MRAC" ; Times: 1
+	Query: "elati" ; Times: 1
+	Query: "sphoeroides pachygaster" ; Times: 2
+	Query: "serrasalmus maculatus" ; Times: 1
+	Query: "serrasalmus manueli" ; Times: 1
+	Query: "serrasalmus compressus" ; Times: 1
+	Query: "hazeus elati" ; Times: 1
+	Query: "Tomeurus" ; Times: 1
+	Query: "labeo senegalensis" ; Times: 1
+	Query: "MNHN 1995-27" ; Times: 1
+	Query: "Ebosia" ; Times: 1
+	Query: "serrasalmus elongatus" ; Times: 1
+	Query: "Hyphessobrycon peruvianus" ; Times: 1
+	Query: "catalognumber:5186 institutioncode:MNHN" ; Times: 2
+	Query: "L.E. Allen" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Cirrhinus molitorella" ; Times: 2
+	Query: "Ensifera ensifera mappable:1" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Crenicichla johanna" ; Times: 1
+	Query: "Malapterurus minjiriya" ; Times: 1
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "Scarus perrico" ; Times: 1
+	Query: "Hyphessobrycon reticulatus" ; Times: 1
+	Query: "&#34;Malapterurus microstoma&#34;" ; Times: 2
+	Query: "serrasalmus altispinis" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 3
+	Query: "arapaima" ; Times: 2
+	Query: "serrasalmus geryi" ; Times: 1
+	Query: "MNHN 2015-0257" ; Times: 2
+	Query: "Hyphessobrycon takasei" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "Cetorhinus" ; Times: 1
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "sargocentron inaequalis" ; Times: 1
+	Query: "Latimeria" ; Times: 2
+	Query: "SP 3239" ; Times: 1
+	Query: "Hyphessobrycon vilmae" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "catalognumber:5840 institutioncode:MNHN" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "serrasalmus hollandi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 977 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 1
+	Country: United States ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 7
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "Pterois mombasae" ; Times: 1
+	Query: "calotomus carolinus" ; Times: 1
+	Query: "Scarus perrico" ; Times: 1
+	Query: "Pterois miles" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Pterois radiata" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "(cameta)" ; Times: 1
+	Query: "Dendrochirus brachypterus" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Dendrochirus zebra" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
