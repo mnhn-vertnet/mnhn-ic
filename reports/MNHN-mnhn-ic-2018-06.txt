@@ -1,0 +1,326 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 540
+Number of records retrieved in searches: 4733
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 489
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Kuwait ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 279
+	Date: 2018-06-20 ; Times: 66
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 7
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 24
+	Date: 2018-06-13 ; Times: 112
+	Date: 2018-06-14 ; Times: 7
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "labeo rouaneti" ; Times: 2
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "Ctenochaetus cyanocheilus" ; Times: 2
+	Query: "Acanthurus desjardinii" ; Times: 1
+	Query: "Acanthurus matoides" ; Times: 4
+	Query: "Naso thynnoides" ; Times: 3
+	Query: "Naso tonganus" ; Times: 2
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "arundelii" ; Times: 1
+	Query: "Zebrasoma gemmatum" ; Times: 3
+	Query: "Acanthurus altivelis" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "plectranthias winniensis" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Acanthurus blochii" ; Times: 4
+	Query: "Naso annulatus" ; Times: 2
+	Query: "Zebrasoma desjardinii" ; Times: 3
+	Query: "Acanthurus desjardinii mappable:1" ; Times: 1
+	Query: "Acanthurus nubilus mappable:1" ; Times: 2
+	Query: "Axinurus thynnoides" ; Times: 1
+	Query: "boleophthalmus dussumieri" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "MNHN-1991-1197" ; Times: 1
+	Query: "zmuc year &gt; 2000" ; Times: 1
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 2
+	Query: "Oreochromis shiranus" ; Times: 1
+	Query: "Acanthurus nubilus" ; Times: 2
+	Query: "acestrorhynchus isalineae" ; Times: 3
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "Naseus brevirostris" ; Times: 2
+	Query: "Zebrasoma desjardinii mappable:1" ; Times: 3
+	Query: "Naso annulatus mappable:1" ; Times: 2
+	Query: "Ctenochaetus hawaiiensis" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "Ctenochaetus cyanoguttatus mappable:1" ; Times: 2
+	Query: "ac-294" ; Times: 1
+	Query: "mylesinus" ; Times: 2
+	Query: "Acanthurus leucopareius mappable:1" ; Times: 3
+	Query: "Acanthurus bariene mappable:1" ; Times: 7
+	Query: "Naso unicornis" ; Times: 2
+	Query: "acipenser nudiventris" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "catalognumber:4342 institutioncode:MNHN" ; Times: 1
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "Robinsia" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "Acanthurus scopas mappable:1" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Xesurus biafraensis" ; Times: 1
+	Query: "Acanthurus mata mappable:1" ; Times: 6
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Ctenochaetus hawaiiensis mappable:1" ; Times: 2
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Acanthurus gahm nigricauda mappable:1" ; Times: 1
+	Query: "Oxynotus" ; Times: 1
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "Naso tuberosus mappable:1" ; Times: 4
+	Query: "Acanthurus reversus" ; Times: 2
+	Query: "gila intermedia" ; Times: 1
+	Query: "Xesurus biafraensis mappable:1" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Acanthurus bariene" ; Times: 7
+	Query: "Siganus woodlandi" ; Times: 1
+	Query: "Acanthurus tennenti" ; Times: 1
+	Query: "Acanthurus violaceus" ; Times: 2
+	Query: "Acanthurus nummifer" ; Times: 2
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "Oreochromis schwebischi" ; Times: 1
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "Naseus brachycentron mappable:1" ; Times: 1
+	Query: "Naso annularis" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "Naso lopezi mappable:1" ; Times: 2
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Zebrasoma gemmatum mappable:1" ; Times: 3
+	Query: "Gila intermedia" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "plectranthias winniensis mnhn" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "Naso brachycentron" ; Times: 2
+	Query: "Acanthurus violaceus mappable:1" ; Times: 2
+	Query: "Acanthurus leucopareius" ; Times: 3
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "Acanthurus reversus mappable:1" ; Times: 2
+	Query: "lebiasina" ; Times: 1
+	Query: "Paracanthurus hepatus mappable:1" ; Times: 2
+	Query: "Pongo vntype:specimen institutioncode:MNHN basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Naso annularis mappable:1" ; Times: 1
+	Query: "Acanthurus polyzona mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Acanthurus blochii mappable:1" ; Times: 4
+	Query: "Trichomycterus nigricans" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Naso thynnoides mappable:1" ; Times: 3
+	Query: "Prionurus scalprum mappable:1" ; Times: 2
+	Query: "Vipera" ; Times: 4
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Labeo greenii" ; Times: 1
+	Query: "Acanthurus rasi" ; Times: 1
+	Query: "Prionurus biafraensis mappable:1" ; Times: 2
+	Query: "Naso tuberosus" ; Times: 4
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "Acanthurus nummifer mappable:1" ; Times: 2
+	Query: "Acanthurus humeralis mappable:1" ; Times: 1
+	Query: "Carcharhinus hemiodon" ; Times: 1
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "MNHN-1991-1198" ; Times: 2
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Acanthurus dussumieri mappable:1" ; Times: 3
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Ctenochaetus flavicauda" ; Times: 2
+	Query: "Acanthurus ctenodon" ; Times: 2
+	Query: "Acanthurus elongatus mappable:1" ; Times: 2
+	Query: "Acanthurus gahm mappable:1" ; Times: 3
+	Query: "Mylesinus paucisquamatus" ; Times: 2
+	Query: "Acanthurus phlebotomus mappable:1" ; Times: 3
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Barbus caninus" ; Times: 1
+	Query: "Naso hexacanthus mappable:1" ; Times: 2
+	Query: "carcharhinus hemiodon" ; Times: 1
+	Query: "Saltator institutioncode:MNHN" ; Times: 1
+	Query: "Acanthurus phlebotomus" ; Times: 3
+	Query: "Acanthurus argenteus" ; Times: 1
+	Query: "plataplochilus" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "Ctenochaetus cyanocheilus mappable:1" ; Times: 2
+	Query: "Acanthurus undulatus" ; Times: 2
+	Query: "fluviphylax" ; Times: 1
+	Query: "Naseus brevirostris mappable:1" ; Times: 2
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "Naso fageni" ; Times: 3
+	Query: "Prionurus scalprum" ; Times: 2
+	Query: "Acanthurus leucosternon mappable:1" ; Times: 4
+	Query: "Acanthurus gemmatus" ; Times: 1
+	Query: "Prionurus biafraensis" ; Times: 2
+	Query: "&#34;labeo rosae&#34;" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "Acanthurus matoides mappable:1" ; Times: 4
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "Acanthurus striatus mappable:1" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 4
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Acanthurus argenteus mappable:1" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Acanthurus delisianus" ; Times: 2
+	Query: "Acanthurus gahm" ; Times: 3
+	Query: "Acanthurus altivelis mappable:1" ; Times: 1
+	Query: "Acanthurus humeralis" ; Times: 1
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "acrossocheilus malcolmi" ; Times: 1
+	Query: "Ctenochaetus oculocoeruleus mappable:1" ; Times: 1
+	Query: "Crossocheilus siamensis" ; Times: 1
+	Query: "Naso fageni mappable:1" ; Times: 3
+	Query: "dodo" ; Times: 2
+	Query: "Ctenodon ctenodon mappable:1" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Acanthurus hepatus mappable:1" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Prionurus laticlavius mappable:1" ; Times: 2
+	Query: "Naso brachycentron mappable:1" ; Times: 2
+	Query: "Acanthurus delisianus mappable:1" ; Times: 2
+	Query: "Naso hexacanthus" ; Times: 2
+	Query: "Acipenser gueldenstaedtii" ; Times: 1
+	Query: "Naso lopezi" ; Times: 2
+	Query: "Acanthurus gahm nigricauda" ; Times: 1
+	Query: "Acanthurus strigosus" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Naseus brachycentron" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Acanthurus rasi mappable:1" ; Times: 1
+	Query: "Acanthurus dussumieri" ; Times: 3
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "ZSM" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Naso vlamingi mappable:1" ; Times: 1
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Naso tonganus mappable:1" ; Times: 2
+	Query: "Acanthurus gemmatus mappable:1" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Acanthurus pyroferus" ; Times: 4
+	Query: "Axinurus thynnoides mappable:1" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Acanthurus strigosus mappable:1" ; Times: 1
+	Query: "Acanthurus triostegus marquesensis mappable:1" ; Times: 1
+	Query: "Acanthurus striatus" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "Acanthurus sohal mappable:1" ; Times: 2
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "Acanthurus scopas" ; Times: 1
+	Query: "Acanthurus ctenodon mappable:1" ; Times: 2
+	Query: "Acanthurus polyzona" ; Times: 2
+	Query: "zmuc" ; Times: 1
+	Query: "Ctenochaetus oculocoeruleus" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "MNHN-2013-1166" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "Acanthurus undulatus mappable:1" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "&#34;Trichomycterus nigricans&#34;" ; Times: 1
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "year &gt;= 2018 year &lt;= 2018" ; Times: 3
+	Query: "scoloplax" ; Times: 1
+	Query: "Acanthurus monroviae mappable:1" ; Times: 2
+	Query: "Acanthurus tennenti mappable:1" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "boleophthalmus" ; Times: 1
+	Query: "Acanthurus triostegus marquesensis" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1169 download events in this period)
+Total number of records downloaded: 160
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "Robinsia" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Salminus brasiliensis" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "elephant" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Prochilodus lineatus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.
