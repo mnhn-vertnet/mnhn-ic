@@ -1,0 +1,126 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 564
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 24
+	Country: Madagascar ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 10
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 4
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-02 ; Times: 1
+	Date: 2019-07-03 ; Times: 7
+	Date: 2019-07-23 ; Times: 2
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-07 ; Times: 5
+	Date: 2019-07-06 ; Times: 3
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Psettina variegata" ; Times: 1
+	Query: "2874 ku" ; Times: 1
+	Query: "catalognumber:4574 institutioncode:MNHN" ; Times: 3
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "Ambassis kopsii" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "Cichla temensis" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "MNHN-4881 vntype:specimen" ; Times: 1
+	Query: "pterois radiata" ; Times: 1
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "Psettina multisquamea" ; Times: 3
+	Query: "Pangio kuhlii" ; Times: 1
+	Query: "Raja binoculata" ; Times: 1
+	Query: "pterois miles" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Gillet" ; Times: 1
+	Query: "FRLM" ; Times: 1
+	Query: "Parabramis pekinensis" ; Times: 1
+	Query: "0671" ; Times: 1
+	Query: "USNM 744" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "MNHN 1999" ; Times: 1
+	Query: "peces" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "Raja stellulata" ; Times: 1
+	Query: "Psettina" ; Times: 2
+	Query: "Clepticus" ; Times: 1
+	Query: "MNHN 4881 vntype:specimen" ; Times: 1
+	Query: "Hippocampus breviceps" ; Times: 1
+	Query: "Psettina IIJIMAE" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "procatopus" ; Times: 2
+	Query: "ophichthus altipennis" ; Times: 1
+	Query: "Dans country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 3
+	Query: "MNHN 4881 institutioncode:MNHN" ; Times: 1
+	Query: "mcz spixii" ; Times: 1
+	Query: "Hutsebaut" ; Times: 2
+	Query: "Oxyeleotris marmorata" ; Times: 1
+	Query: "Parabothus budkeri" ; Times: 1
+	Query: "Moenkhausia sanctaefilomenae" ; Times: 1
+	Query: "Parabothus taiwanensis" ; Times: 1
+	Query: "MNHN 5738" ; Times: 1
+	Query: "Penju" ; Times: 1
+	Query: "Lamna" ; Times: 1
+	Query: "sechellensis" ; Times: 2
+	Query: "Ebosia bleekeri" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 985 download events in this period)
+Total number of records downloaded: 273
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "galapagos" ; Times: 1
+
+
+End of report.
