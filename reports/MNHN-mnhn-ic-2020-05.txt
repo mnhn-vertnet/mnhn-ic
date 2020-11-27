@@ -1,0 +1,169 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 1157
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 109
+	Country: Austria ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 3
+	Country: Japan ; Times: 16
+	Country: Iraq ; Times: 2
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 38
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-26 ; Times: 15
+	Date: 2020-05-30 ; Times: 11
+	Date: 2020-05-22 ; Times: 7
+	Date: 2020-05-29 ; Times: 11
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-02 ; Times: 7
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-11 ; Times: 10
+	Date: 2020-05-12 ; Times: 5
+	Date: 2020-05-13 ; Times: 18
+	Date: 2020-05-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "chirophryne xenolophus" ; Times: 1
+	Query: "MNHN CG" ; Times: 1
+	Query: "1316 borneo" ; Times: 2
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "evermannella indica" ; Times: 1
+	Query: "Balistes punctatus mappable:1" ; Times: 1
+	Query: "Abalistes filamentosus mappable:1" ; Times: 6
+	Query: "Pseudobalistes fuscus mappable:1" ; Times: 1
+	Query: "Sufflamen albicaudatum mappable:1" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "holcomycteronus digittatus" ; Times: 1
+	Query: "Xanthichthys caeruleolineatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus verrucosus mappable:1" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "Yemen" ; Times: 2
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "inegocia japonica" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 5
+	Query: "Sufflamen fraenatum mappable:1" ; Times: 1
+	Query: "Gymnothorax serratidens" ; Times: 2
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "Abalistes stellatus mappable:1" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "foetorepus calauropomus" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "Samariscus nielseni" ; Times: 4
+	Query: "Canthidermis sufflamen mappable:1" ; Times: 1
+	Query: "MNHN 599" ; Times: 1
+	Query: "naso thynnoides" ; Times: 2
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "histiodraco velifer" ; Times: 1
+	Query: "jaydia ellioti" ; Times: 1
+	Query: "Rhinecanthus cinereus mappable:1" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "Samariscus luzonensis" ; Times: 2
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "Gymnothorax equatorialis" ; Times: 2
+	Query: "clot bey" ; Times: 2
+	Query: "Xanthichthys ringens mappable:1" ; Times: 1
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "Gymnothorax angusticeps" ; Times: 1
+	Query: "iracundus signifer" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "pachynema" ; Times: 1
+	Query: "Bathysphyraenops simplex" ; Times: 3
+	Query: "lepidocybium" ; Times: 2
+	Query: "guavina guavina" ; Times: 1
+	Query: "Rhinecanthus assasi mappable:1" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 2
+	Query: "Proterorhinus marmoratus" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterum mappable:1" ; Times: 1
+	Query: "ZMH" ; Times: 1
+	Query: "Melichthys indicus mappable:1" ; Times: 1
+	Query: "Chaenogobius isaza" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "hippoglossina macrops" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Barbus jae" ; Times: 2
+	Query: "Solenostomus" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "Hemiculter tchangi" ; Times: 1
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "favonigobius lateralis" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "Megalobrama terminalis" ; Times: 1
+	Query: "Xanthichthys auromarginatus mappable:1" ; Times: 1
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "upeneus heemstra" ; Times: 1
+	Query: "hime japonica" ; Times: 1
+	Query: "genypterus chilensis" ; Times: 1
+	Query: "megalobrama terminalis" ; Times: 4
+	Query: "euristhmus lepturus" ; Times: 2
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "mnhn 0000-6211" ; Times: 1
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "hapalogenys nigripinnis" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 3
+	Query: "Samariscus macrognathus" ; Times: 3
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "Balistoides conspicillum mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "echelus myrus" ; Times: 2
+	Query: "Samariscus desoutterae" ; Times: 7
+	Query: "Pseudobalistes flavimarginatus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1106 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "osteochilus vittatus" ; Times: 1
+	Query: "clot bey" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "rutilus rubilio" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
