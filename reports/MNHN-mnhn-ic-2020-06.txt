@@ -1,0 +1,423 @@
+Report for Institution Code MNHN, Resource mnhn-ic
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2032
+Number of records retrieved in searches: 30560
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 8
+	Country: United States ; Times: 76
+	Country: China ; Times: 8
+	Country: United Kingdom ; Times: 1900
+	Country: Peru ; Times: 34
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 48
+	Date: 2020-06-06 ; Times: 15
+	Date: 2020-06-07 ; Times: 19
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-05 ; Times: 11
+	Date: 2020-06-02 ; Times: 11
+	Date: 2020-06-03 ; Times: 10
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 278
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 682
+	Date: 2020-06-11 ; Times: 681
+	Date: 2020-06-17 ; Times: 260
+
+List of queries that retrieved data from the resource: 
+	Query: "Pachychilon pictum" ; Times: 6
+	Query: "Puntioplites falcifer" ; Times: 12
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "Spinibarbus sinensis" ; Times: 6
+	Query: "Sarotherodon melanotheron" ; Times: 12
+	Query: "Trichomycterus dispar" ; Times: 1
+	Query: "Siganus woodlandi" ; Times: 6
+	Query: "institutioncode:MNHN" ; Times: 1
+	Query: "Tridens melanops" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "Takifugu chrysops" ; Times: 6
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "Cyclocheilichthys janthochir" ; Times: 6
+	Query: "Arius maculatus" ; Times: 12
+	Query: "Clupeichthys aesarnensis" ; Times: 6
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Vandellia cirrhosa" ; Times: 1
+	Query: "Trichomycterus rivulatus" ; Times: 1
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "Petrochromis trewavasae" ; Times: 6
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Thryssa kammalensis" ; Times: 6
+	Query: "Takifugu niphobles" ; Times: 6
+	Query: "Chaetobranchus semifasciatus" ; Times: 1
+	Query: "parona signata" ; Times: 1
+	Query: "rhombosolea tapirina" ; Times: 1
+	Query: "Acarichthys heckelii" ; Times: 1
+	Query: "Sardinella brachysoma" ; Times: 6
+	Query: "Cichla temensis" ; Times: 2
+	Query: "luciosudis normani" ; Times: 1
+	Query: "Mystacoleucus marginatus" ; Times: 12
+	Query: "Gobiopterus lacustris" ; Times: 9
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Taenioides anguillaris" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Microglanis poecilus" ; Times: 1
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "Chitala ornata" ; Times: 12
+	Query: "Osteogeneiosus militaris" ; Times: 3
+	Query: "Johnius borneensis" ; Times: 9
+	Query: "Sardinella fimbriata" ; Times: 6
+	Query: "lampanyctodes hectoris" ; Times: 1
+	Query: "Lepturacanthus savala" ; Times: 6
+	Query: "Cynotilapia afra" ; Times: 6
+	Query: "Scomber colias" ; Times: 6
+	Query: "Labeo fimbriatus" ; Times: 6
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "raja miraletus" ; Times: 2
+	Query: "Zacco acutipinnis" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "Konia dikume" ; Times: 6
+	Query: "Leiognathus brevirostris" ; Times: 6
+	Query: "Xenocypris macrolepis" ; Times: 6
+	Query: "penetopteryx taeniocephalus" ; Times: 1
+	Query: "rosenblattia robusta" ; Times: 2
+	Query: "Indostomus paradoxus" ; Times: 6
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "Cyclocheilichthys apogon" ; Times: 12
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Sillago sihama" ; Times: 6
+	Query: "pataecus fronto" ; Times: 1
+	Query: "Netuma thalassina" ; Times: 12
+	Query: "Pangasius macronema" ; Times: 18
+	Query: "Pungitius laevis" ; Times: 6
+	Query: "niphon spinosus" ; Times: 3
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "pentherichthys atratus" ; Times: 2
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "phucocoetes latitans" ; Times: 2
+	Query: "Oreochromis tanganicae" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "Scomberomorus concolor" ; Times: 6
+	Query: "Sabanejewia larvata" ; Times: 1
+	Query: "Ramnogaster arcuata" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "Eleotris fusca" ; Times: 6
+	Query: "Scomberomorus sinensis" ; Times: 6
+	Query: "Rasbora dusonensis" ; Times: 6
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "Labeo calbasu" ; Times: 6
+	Query: "Cirrhinus microlepis" ; Times: 12
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "Clarias gabonensis" ; Times: 6
+	Query: "Xenocypris davidi" ; Times: 6
+	Query: "Cheilopogon atrisignis" ; Times: 6
+	Query: "Apionichthys dumerili" ; Times: 2
+	Query: "Tenualosa thibaudeaui" ; Times: 6
+	Query: "Discherodontus ashmeadi" ; Times: 6
+	Query: "Trichomycterus barbouri" ; Times: 1
+	Query: "Liza carinata" ; Times: 6
+	Query: "samaris cristatus" ; Times: 1
+	Query: "Salmo labrax" ; Times: 6
+	Query: "Carassius cuvieri" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Pliosteostoma lutipinnis" ; Times: 1
+	Query: "Leuciscus waleckii" ; Times: 6
+	Query: "Brachirus siamensis" ; Times: 3
+	Query: "Epinephelus multinotatus" ; Times: 2
+	Query: "Glossogobius aureus" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "Arius latiscutatus" ; Times: 6
+	Query: "Henicorhynchus siamensis" ; Times: 6
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "snyderidia canina" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Hemibagrus wyckioides" ; Times: 6
+	Query: "notolepis coatsi" ; Times: 1
+	Query: "Odontamblyopus rubicundus" ; Times: 6
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "Tropheus duboisi" ; Times: 6
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Takifugu oblongus" ; Times: 9
+	Query: "Geophagus surinamensis" ; Times: 2
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Boesemania microlepis" ; Times: 6
+	Query: "Coregonus oxyrinchus" ; Times: 6
+	Query: "Gobiopterus chuno" ; Times: 6
+	Query: "Paralaubuca typus" ; Times: 12
+	Query: "lepidonotothen kempi" ; Times: 2
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Labiobarbus leptocheilus" ; Times: 12
+	Query: "Hampala dispar" ; Times: 6
+	Query: "Mystus mysticetus" ; Times: 9
+	Query: "Garra fasciacauda" ; Times: 12
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "sicyases sanguineus" ; Times: 1
+	Query: "Arius manillensis" ; Times: 6
+	Query: "Taenioides cirratus" ; Times: 6
+	Query: "Sardinella maderensis" ; Times: 6
+	Query: "Siganus spinus" ; Times: 6
+	Query: "prionodraco evansii" ; Times: 6
+	Query: "Trinectes fluviatilis" ; Times: 1
+	Query: "Comephorus baikalensis" ; Times: 6
+	Query: "Salmo obtusirostris" ; Times: 6
+	Query: "Albulichthys albuloides" ; Times: 12
+	Query: "Pungu maclareni" ; Times: 6
+	Query: "Takifugu vermicularis" ; Times: 6
+	Query: "Osteochilus vittatus" ; Times: 12
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Planiliza sp.D" ; Times: 3
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "Squalidus gracilis" ; Times: 6
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Esomus metallicus" ; Times: 6
+	Query: "Takifugu rubripes" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "odontamblyopus rubicundus" ; Times: 1
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "Glossogobius giuris" ; Times: 6
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "Nemipterus furcosus" ; Times: 6
+	Query: "oblada melanura" ; Times: 1
+	Query: "Pangasius larnaudii" ; Times: 18
+	Query: "Pellonula vorax" ; Times: 1
+	Query: "Pungitius sinensis" ; Times: 6
+	Query: "Cypselurus angusticeps" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Leuciscus burdigalensis" ; Times: 6
+	Query: "Bagarius yarrelli" ; Times: 6
+	Query: "Asprocottus pulcher" ; Times: 6
+	Query: "Setipinna tenuifilis" ; Times: 6
+	Query: "Hipposcarus harid" ; Times: 6
+	Query: "Cosmochilus harmandi" ; Times: 12
+	Query: "Gyrinocheilus pennocki" ; Times: 6
+	Query: "Cirrhinus reba" ; Times: 6
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Esox lucius" ; Times: 8
+	Query: "scartelaos histophorus" ; Times: 2
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Acantopsis dialuzona" ; Times: 6
+	Query: "Gudusia chapra" ; Times: 1
+	Query: "Leuciscus aspius" ; Times: 6
+	Query: "neocyttus rhomboidalis" ; Times: 1
+	Query: "Pampus chinensis" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 2
+	Query: "Capoeta capoeta" ; Times: 6
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Amblyrhynchichthys truncatus" ; Times: 12
+	Query: "Chrysichthys nigrodigitatus" ; Times: 6
+	Query: "Siganus sutor" ; Times: 6
+	Query: "Pangio anguillaris" ; Times: 6
+	Query: "Abramis brama" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "Stolephorus insularis" ; Times: 12
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "panna microdon" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "Scaphognathops bandanensis" ; Times: 12
+	Query: "Esox cisalpinus" ; Times: 6
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Labeo dyocheilus" ; Times: 6
+	Query: "Lobocheilos melanotaenia" ; Times: 6
+	Query: "Cirrhinus cirrhosus" ; Times: 6
+	Query: "Ictalurus pricei" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Cyclocheilichthys armatus" ; Times: 6
+	Query: "Cypselurus poecilopterus" ; Times: 6
+	Query: "Odontognathus mucronatus" ; Times: 2
+	Query: "Barbichthys laevis" ; Times: 6
+	Query: "Clupeoides borneensis" ; Times: 12
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Channa striata" ; Times: 12
+	Query: "pareiodon microps" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Arius arius" ; Times: 12
+	Query: "macolor niger" ; Times: 1
+	Query: "Netuma bilineata" ; Times: 6
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Pseudostegophilus nemurus" ; Times: 2
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Gobiomorus maculatus" ; Times: 1
+	Query: "rhinochimaera pacifica" ; Times: 1
+	Query: "Imparfinis minutus" ; Times: 6
+	Query: "Trichomycterus punctulatus" ; Times: 1
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "Geophagus proximus" ; Times: 3
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Pterothrissus belloci" ; Times: 1
+	Query: "Pseudogobiopsis oligactis" ; Times: 6
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "papilloculiceps longiceps" ; Times: 1
+	Query: "Crenicichla inpa" ; Times: 2
+	Query: "Cheilopogon unicolor" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Oedalechilus labeo" ; Times: 6
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "mustelus manazo" ; Times: 2
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "Pungitius platygaster" ; Times: 6
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Squaliobarbus curriculus" ; Times: 6
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "Pseudotropheus crabro" ; Times: 6
+	Query: "Arius gagora" ; Times: 6
+	Query: "Cottus perifretum" ; Times: 6
+	Query: "Pristolepis fasciata" ; Times: 6
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Coregonus albula" ; Times: 6
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Probarbus jullieni" ; Times: 6
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "Ketengus typus" ; Times: 6
+	Query: "Polynemus dubius" ; Times: 6
+	Query: "Atherina hepsetus" ; Times: 6
+	Query: "Dermogenys siamensis" ; Times: 6
+	Query: "Pangasius krempfi" ; Times: 3
+	Query: "Salmo salar" ; Times: 9
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Batrachocottus baicalensis" ; Times: 6
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Epalzeorhynchos frenatus" ; Times: 6
+	Query: "spicara flexuosa" ; Times: 1
+	Query: "paraplotosus albilabris" ; Times: 2
+	Query: "Sarotherodon lohbergeri" ; Times: 6
+	Query: "Barbonymus altus" ; Times: 12
+	Query: "Takifugu poecilonotus" ; Times: 6
+	Query: "Stenodus leucichthys" ; Times: 6
+	Query: "Labiobarbus ocellatus" ; Times: 6
+	Query: "Cyclocheilichthys enoplos" ; Times: 12
+	Query: "Stomatepia pindu" ; Times: 6
+	Query: "Synbranchus lampreia" ; Times: 1
+	Query: "Pareiodon microps" ; Times: 1
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "Chrysichthys brachynema" ; Times: 6
+	Query: "Chirocentrodon bleekerianus" ; Times: 2
+	Query: "Crossocheilus oblongus" ; Times: 6
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "Pungitius hellenicus" ; Times: 6
+	Query: "Takifugu porphyreus" ; Times: 6
+	Query: "Cottus rhenanus" ; Times: 6
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "Arius venosus" ; Times: 6
+	Query: "Pungitius tymensis" ; Times: 6
+	Query: "Hilsa kelee" ; Times: 12
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Coregonus migratorius" ; Times: 6
+	Query: "Poropuntius carinatus" ; Times: 6
+	Query: "Raiamas guttatus" ; Times: 6
+	Query: "Hemibagrus spilopterus" ; Times: 12
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "odontostomias micropogon" ; Times: 1
+	Query: "Crenicichla johanna" ; Times: 2
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "Cirrhinus mrigala" ; Times: 6
+	Query: "Mekongina erythrospila" ; Times: 12
+	Query: "pterois miles" ; Times: 1
+	Query: "Pangasius bocourti" ; Times: 15
+	Query: "Gobioides peruanus" ; Times: 1
+	Query: "Squalius cephalus" ; Times: 12
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Takifugu xanthopterus" ; Times: 6
+	Query: "V-1132" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "Hypsibarbus vernayi" ; Times: 6
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "phosichthys argenteus" ; Times: 1
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Plicofollis layardi" ; Times: 6
+	Query: "Plectrochilus machadoi" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Sikukia gudgeri" ; Times: 12
+	Query: "carassius gibelio" ; Times: 1
+	Query: "Johnius carouna" ; Times: 9
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Cyathochromis obliquidens" ; Times: 6
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Thynnichthys thynnoides" ; Times: 6
+	Query: "Apistogramma linkei" ; Times: 1
+	Query: "Clarias macrocephalus" ; Times: 12
+	Query: "Sardinella hualiensis" ; Times: 6
+	Query: "signigobius biocellatus" ; Times: 1
+	Query: "Apistogramma bitaeniata" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Chelon labrosus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Encrasicholina heteroloba" ; Times: 9
+	Query: "Catlocarpio siamensis" ; Times: 12
+	Query: "Butis butis" ; Times: 6
+	Query: "Phractocephalus hemioliopterus" ; Times: 6
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Parachela siamensis" ; Times: 3
+	Query: "Rhinosardinia amazonica" ; Times: 1
+	Query: "Puntius chola" ; Times: 6
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "Pseudorasbora parva" ; Times: 6
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Hemibagrus wyckii" ; Times: 6
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Sinogastromyzon tonkinensis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "SMNS" ; Times: 1
+	Query: "carassius gibelio" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+
+
+End of report.
